@@ -1,18 +1,19 @@
 # Hi, I'm Suzuki Taro 👋
 
-Full-Stack Engineer · Freelancer · Osaka, Japan
+AI-focused Full-Stack Engineer · Freelancer · Osaka, Japan
 
-React · Next.js · TypeScript · Python · Rust · C++
-
+- Full-stack development (TypeScript, Python, React, Node.js)  
+- API design & integrations (REST, auth systems)  
+- AI/ML (LLMs, voice AI, generative models)  
+- Data pipelines (scraping, processing, storage)  
+- DevOps & cloud (Docker, CI/CD, scalable infrastructure)
 ---
 
 ### 🛠 What I do
 
-- Web apps — React, Next.js, TypeScript
-- AI & automation — LLM agents, FastAPI
-- IoT & embedded — C++, Python
-- Smart contracts — Solidity
-- SaaS starters — Next.js, Prisma, TRPC, Tailwind
+I work with startups and product teams to architect, build, and scale high-impact software systems.  
+My experience covers full-stack development, distributed systems, and AI/ML applications, with ownership from design through production.  
+I focus on building reliable infrastructure, data-driven systems, and intelligent products powered by LLMs, voice AI, and generative models.
 
 ---
 
@@ -24,4 +25,6 @@ React · Next.js · TypeScript · Python · Rust · C++
 
 ### 📬 Contact
 
-📧 suzukitaro0512@gmail.com · 💬 WhatsApp: +81 90-3270-3814 · ✈️ Telegram: [@suz00i](https://t.me/suz00i)
+📧 suzukitaro0512@gmail.com
+💬 WhatsApp: +81 90-3270-3814
+✈️ Telegram: [@suz00i](https://t.me/suz00i)
