@@ -26,5 +26,7 @@ I focus on building reliable infrastructure, data-driven systems, and intelligen
 ### 📬 Contact
 
 📧 suzukitaro0512@gmail.com
+
 💬 WhatsApp: +81 90-3270-3814
+
 ✈️ Telegram: [@suz00i](https://t.me/suz00i)
