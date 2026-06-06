@@ -18,4 +18,3 @@ Full-stack development across TypeScript, Python, React, and Node.js, along with
 
 💬 WhatsApp: +81 90-3270-3814
 
-✈️ Telegram: [@suz00i](https://t.me/suz00i)
