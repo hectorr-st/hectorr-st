@@ -1,4 +1,4 @@
-# Hi, I'm Suzuki Taro 👋
+# Hi, I'm Taro 👋
 
 AI-focused Full-Stack Engineer · Freelancer 
 
